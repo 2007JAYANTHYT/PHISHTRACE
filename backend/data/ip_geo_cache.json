@@ -1,0 +1,115 @@
+{
+  "40.107.92.54": {
+    "country": "United States",
+    "country_code": "US",
+    "city": "Redmond",
+    "region": "Washington",
+    "latitude": 47.674,
+    "longitude": -122.1215,
+    "org": "Microsoft Corporation",
+    "asn": "AS8075"
+  },
+  "40.92.74.88": {
+    "country": "United States",
+    "country_code": "US",
+    "city": "Des Moines",
+    "region": "Iowa",
+    "latitude": 41.6005,
+    "longitude": -93.6091,
+    "org": "Microsoft Corporation",
+    "asn": "AS8075"
+  },
+  "209.85.220.41": {
+    "country": "United States",
+    "country_code": "US",
+    "city": "Mountain View",
+    "region": "California",
+    "latitude": 37.4056,
+    "longitude": -122.0775,
+    "org": "Google LLC",
+    "asn": "AS15169"
+  },
+  "209.85.216.170": {
+    "country": "United States",
+    "country_code": "US",
+    "city": "Council Bluffs",
+    "region": "Iowa",
+    "latitude": 41.2619,
+    "longitude": -95.8608,
+    "org": "Google LLC",
+    "asn": "AS15169"
+  },
+  "185.220.101.5": {
+    "country": "Germany",
+    "country_code": "DE",
+    "city": "Frankfurt",
+    "region": "Hesse",
+    "latitude": 50.1109,
+    "longitude": 8.6821,
+    "org": "Zwiebelfreunde Tor Exit",
+    "asn": "AS200651"
+  },
+  "194.26.29.112": {
+    "country": "Russia",
+    "country_code": "RU",
+    "city": "Moscow",
+    "region": "Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "org": "Bulletproof Hosting Services",
+    "asn": "AS49392"
+  },
+  "198.54.117.200": {
+    "country": "United States",
+    "country_code": "US",
+    "city": "Phoenix",
+    "region": "Arizona",
+    "latitude": 33.4484,
+    "longitude": -112.074,
+    "org": "Namecheap Inc",
+    "asn": "AS22612"
+  },
+  "103.253.144.10": {
+    "country": "India",
+    "country_code": "IN",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "org": "Hostinger Cloud",
+    "asn": "AS46015"
+  },
+  "45.154.255.89": {
+    "country": "Netherlands",
+    "country_code": "NL",
+    "city": "Amsterdam",
+    "region": "North Holland",
+    "latitude": 52.3676,
+    "longitude": 4.9041,
+    "org": "Chang Way Technologies",
+    "asn": "AS57523"
+  },
+  "91.240.118.42": {
+    "country": "Seychelles",
+    "country_code": "SC",
+    "city": "Victoria",
+    "region": "Mahe",
+    "latitude": -4.6191,
+    "longitude": 55.4513,
+    "org": "Anonymized Offshore VPS",
+    "asn": "AS60117"
+  },
+  "209.85.220.69": {
+    "ip": "209.85.220.69",
+    "country": "United States",
+    "country_code": "US",
+    "city": "Mountain View",
+    "region": "California",
+    "latitude": 37.422,
+    "longitude": -122.085,
+    "org": "Google LLC",
+    "asn": "AS15169 Google LLC",
+    "is_private": false,
+    "source": "Live IP-API Lookup"
+  }
+}

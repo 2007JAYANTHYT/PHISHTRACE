@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.venv/
+env/
+venv/
+backend/data/*.db
+backend/data/*.sqlite3
+
+# Node & Frontend
+node_modules/
+frontend/dist/
+frontend/node_modules/
+.npm
+*.tsbuildinfo
+
+# Environment & Credentials
+.env
+*.env
+!.env.example
+*.pem
+*.key
+credentials.json
+token.json
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,29 @@
+From: "Corporate Payroll Department" <payroll@internal-updates.online>
+To: "All Employees" <staff.distribution@enterprise-acme.org>
+Subject: Revised Q3 Staff Salary and Commission Roster
+Date: Tue, 06 Oct 2026 11:10:00 +0000
+Message-ID: <payroll-roster-20261006@internal-updates.online>
+Authentication-Results: mx.enterprise-acme.org; dkim=none; spf=fail; dmarc=none
+Received: from offshore-mta.seychelles.net ([91.240.118.42])
+    by mx.enterprise-acme.org with ESMTP id 7K1122ZZ; Tue, 06 Oct 2026 11:10:04 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="====BOUNDARY_PHISH_PAYROLL===="
+
+--====BOUNDARY_PHISH_PAYROLL====
+Content-Type: text/plain; charset="utf-8"
+
+Team,
+
+Attached is the revised Q3 compensation adjustment file.
+Please open the attached workbook, enable content macros to decrypt your personalized staff tier, and verify your account routing details by Friday.
+
+Regards,
+Human Resources & Payroll
+--====BOUNDARY_PHISH_PAYROLL====
+Content-Type: application/vnd.ms-excel.sheet.macroEnabled.12; name="Q3_Updated_Corporate_Payroll.xlsm"
+Content-Disposition: attachment; filename="Q3_Updated_Corporate_Payroll.xlsm"
+Content-Transfer-Encoding: base64
+
+UEsDBBQAAAAIAAAAAAAAAAAAAAAAAAAAAAARAAAAeGwvd29ya2Jvb2sueG1szcxNCsIwEEDhvVCP
+YGbSNGtBXEiKiIsupGkkM2hmSEq8vVDq0s27fPje0zZkWwS6S6nUkq0N5Kk91sYpYy9M9T0z
+--====BOUNDARY_PHISH_PAYROLL====--

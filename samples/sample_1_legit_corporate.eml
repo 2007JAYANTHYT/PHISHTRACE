@@ -1,0 +1,29 @@
+From: "Elena Rostova" <elena.rostova@enterprise-acme.org>
+To: "Alex Devlin" <alex.devlin@enterprise-acme.org>
+Subject: Quarterly Board Governance Meeting -- Agenda & Materials
+Date: Thu, 08 Oct 2026 14:15:00 +0000
+Message-ID: <legit-board-20261008-01@enterprise-acme.org>
+Return-Path: <elena.rostova@enterprise-acme.org>
+Authentication-Results: mx.enterprise-acme.org; dkim=pass (signature verified); spf=pass smtp.mailfrom=elena.rostova@enterprise-acme.org; dmarc=pass
+Received-SPF: pass (google.com: domain of elena.rostova@enterprise-acme.org designates 209.85.220.41 as permitted sender)
+Received: from mail-pj1-f41.google.com (mail-pj1-f41.google.com [209.85.220.41])
+    by mx.enterprise-acme.org (Postfix) with ESMTPS id 4W0fK32PzSz1
+    for <alex.devlin@enterprise-acme.org>; Thu, 08 Oct 2026 14:15:02 +0000
+Content-Type: text/plain; charset="utf-8"
+
+Hi Alex,
+
+Please find the finalized agenda for tomorrow's quarterly executive review meeting. 
+All committee members have confirmed attendance.
+
+Agenda topics:
+1. Q3 Fiscal Performance & Engineering Milestones
+2. Infrastructure Security Audits
+3. Open-source Tooling Allocations for FY2027
+
+See you in Boardroom 3 at 10:00 AM.
+
+Best regards,
+Elena Rostova
+Chief Governance Officer
+Enterprise Acme Group
