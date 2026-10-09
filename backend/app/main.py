@@ -10,7 +10,7 @@ app = FastAPI(
     version=settings.VERSION
 )
 
-# Restrictive CORS configuration for local SOC frontend
+# CORS configuration allowing local SOC frontend and Vercel cloud deployments
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
@@ -19,10 +19,12 @@ app.add_middleware(
         "http://localhost:3000",
         "http://127.0.0.1:3000",
         "http://localhost:8000",
-        "http://127.0.0.1:8000"
+        "http://127.0.0.1:8000",
+        "https://vercel.app"
     ],
+    allow_origin_regex=r"https://.*\.vercel\.app",
     allow_credentials=True,
-    allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    allow_methods=["*"],
     allow_headers=["*"],
 )
 
